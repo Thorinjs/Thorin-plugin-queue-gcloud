@@ -1,7 +1,7 @@
 {
   "name": "thorin-plugin-queue-gcloud",
   "author": "UNLOQ Systems",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@google-cloud/pubsub": "0.20.x"
   },

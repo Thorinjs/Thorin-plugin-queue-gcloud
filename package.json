@@ -1,0 +1,19 @@
+{
+  "name": "thorin-plugin-queue-gcloud",
+  "author": "UNLOQ Systems",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/pubsub": "0.20.x"
+  },
+  "description": "Thorin.js GCloud PubSub queue wrapper",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thorinjs/Thorin-plugin-queue-gcloud"
+  },
+  "homepage": "http://thorinjs.com",
+  "bugs": {
+    "url": "https://github.com/Thorinjs/Thorin-plugin-queue-aws/issues"
+  }
+}
